@@ -1,43 +1,43 @@
 [
     {
-        "title": "project one", 
+        "title": "project one",
         "image": "https://bocdn.ecotree.green/blog/0001/01/ad46dbb447cd0e9a6aeecd64cc2bd332b0cbcb79.jpeg?d=960x540",
-        "description": "project one description", 
+        "description": "This project was a simple fetch API website that utilized Amazon's API to find reviews on certain products within their inventory.",
+        "deployed": "https://pranithgunda.github.io/review-radars/",
+        "repo": "https://github.com/pranithgunda/review-radars"
+    },
+    {
+        "title": "project two",
+        "image": "https://bocdn.ecotree.green/blog/0001/01/ad46dbb447cd0e9a6aeecd64cc2bd332b0cbcb79.jpeg?d=960x540",
+        "description": "This Project simply was a social media application that is focused for coders/sofware engineers. Giving users the ability to create a profile add, add friends, display your porfolio/projects and network with other coders/companies from all over the world ",
+        "deployed": "https://code-it-webservice.onrender.com/",
+        "repo": "https://github.com/fsalam1984/code_it"
+    },
+    {
+        "title": "project three",
+        "image": "https://bocdn.ecotree.green/blog/0001/01/ad46dbb447cd0e9a6aeecd64cc2bd332b0cbcb79.jpeg?d=960x540",
+        "description": "In construction",
         "deployed": "",
         "repo": ""
     },
     {
-        "title": "project two", 
+        "title": "project four",
         "image": "https://bocdn.ecotree.green/blog/0001/01/ad46dbb447cd0e9a6aeecd64cc2bd332b0cbcb79.jpeg?d=960x540",
-        "description": "project two description",
+        "description": "In construction",
         "deployed": "",
         "repo": ""
     },
     {
-        "title": "project three", 
+        "title": "project five",
         "image": "https://bocdn.ecotree.green/blog/0001/01/ad46dbb447cd0e9a6aeecd64cc2bd332b0cbcb79.jpeg?d=960x540",
-        "description": "project three description",
+        "description": "In construction",
         "deployed": "",
         "repo": ""
     },
     {
-        "title": "project four", 
+        "title": "project six",
         "image": "https://bocdn.ecotree.green/blog/0001/01/ad46dbb447cd0e9a6aeecd64cc2bd332b0cbcb79.jpeg?d=960x540",
-        "description": "project four description",
-        "deployed": "",
-        "repo": ""
-    },
-    {
-        "title": "project five", 
-        "image": "https://bocdn.ecotree.green/blog/0001/01/ad46dbb447cd0e9a6aeecd64cc2bd332b0cbcb79.jpeg?d=960x540",
-        "description": "project five description",
-        "deployed": "",
-        "repo": ""
-    },
-    {
-        "title": "project six", 
-        "image": "https://bocdn.ecotree.green/blog/0001/01/ad46dbb447cd0e9a6aeecd64cc2bd332b0cbcb79.jpeg?d=960x540",
-        "description": "project six description",
+        "description": "In construction",
         "deployed": "",
         "repo": ""
     }

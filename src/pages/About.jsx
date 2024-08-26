@@ -9,7 +9,8 @@ export default function About() {
         I'm from Atlanta, GA. I've been
         interested in tech since 2020 but, never could
         find the time to actually apply myself to practice
-        to learn software languages and coding structures.
+        to learn software languages and coding structures. I pride myself on trying to take on a challenge and
+         believe me this journey has been a process but, I've learned so much and will strive to learn more
       </p>
     </div>
   );

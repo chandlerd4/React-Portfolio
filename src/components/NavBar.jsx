@@ -7,7 +7,7 @@ export default function NavBar() {
             <Link to='/about' className='px-2' >About</Link>
             <Link to='/contact' className='px-2' >Contact</Link>
             <Link to='/projects' className='px-2' >Projects</Link>
-            <a href="./assets/projects.json" download className='btn btn-secondary'>Resume</a>
+            <a href="https://1drv.ms/b/s!AtQY_YvpI9Hyh4ps4NQbgPc17KzAnA?e=yYDS2Rq" download className='btn btn-secondary'>Resume</a>
         </nav>
     );
 }

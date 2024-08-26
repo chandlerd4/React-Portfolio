@@ -1,7 +1,7 @@
 export default function Contact() {
     return (
         <div class="container">
-  <h1>FormSubmit Demo</h1>
+  <h1>Contact Me</h1>
   <form target="_blank" action="https://formsubmit.co/chandlerdaniel254@gmail.com" method="POST">
     <div class="form-group">
       <div class="form-row">
